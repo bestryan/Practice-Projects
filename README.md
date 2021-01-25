@@ -1,4 +1,5 @@
 # Practice-Projects
-Codecademy beginner project practice
 
-// CSS layout with flexbox challenge practice
+My coding practice folder with HTML & CSS
+
+//layout with flexbox challenge practice_tea_cozy_codecademy
