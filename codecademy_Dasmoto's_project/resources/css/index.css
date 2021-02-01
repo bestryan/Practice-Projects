@@ -1,0 +1,31 @@
+html,
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+header {
+    background-image: url("/Users/ryan/Desktop/Project/Codecademy_projects/codecademy_Dasmoto's Arts & Crafts_project/resources/images/pattern.jpg")
+}
+
+header h1 {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+.banner {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.green {background-color: mediumspringgreen;}
+.red {background-color: lightcoral;}
+.blue {background-color: skyblue;}
+
+span {
+    font-weight: bold;
+    color: blue;
+}
