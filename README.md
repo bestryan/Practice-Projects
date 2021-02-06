@@ -8,4 +8,4 @@ My coding practice folder with HTML & CSS
 
 3 - codecademy_Dasmoto's Arts & Crafts_project_pratice
 
-4 - Testing command line push..
+4 - command line push testing......
